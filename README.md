@@ -72,7 +72,7 @@ Clone the repository and navigate to the C++ project directory. Then, compile an
 ```bash
 # Navigate to the C++ project folder
 cd shortest_path
-cd untitled
+cd untitled1
 
 # Create a build directory
 mkdir build && cd build
